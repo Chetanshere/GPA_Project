@@ -1,2 +1,4 @@
 # Google Playstore Analysis Project:
 
+## Goal of the Project
+Our project objective revolves around forecasting the number of app installs based on app information and user reviews. Our aim is to offer valuable insights to app developers and potential investors in identifying the next breakthrough app. Beta focus groups and user feedback play a significant role in our data collection, along with app reviews. By leveraging this data and incorporating relevant app knowledge, we can make accurate predictions about an app's success. This valuable information on the number of installs can empower developers and business managers to anticipate potential profits. Additionally, our project's outcomes may shed light on the crucial role that reviews play in influencing an app's success in the market, as they are among the determining factors for the number of installs.
